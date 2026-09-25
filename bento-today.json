@@ -1,37 +1,12 @@
 {
   "date": "2026-09-25",
-  "total": 6,
-  "list": [
-    {
-      "name": "木村秀美",
-      "qty": 1
-    },
-    {
-      "name": "松村",
-      "qty": 1
-    },
-    {
-      "name": "樋笠正直",
-      "qty": 1
-    },
-    {
-      "name": "樋笠正道",
-      "qty": 1
-    },
-    {
-      "name": "樋笠幸三",
-      "qty": 1
-    },
-    {
-      "name": "佐々木",
-      "qty": 1
-    }
-  ],
+  "total": 0,
+  "list": [],
   "holiday": false,
   "phone": "087-841-6000",
   "notifyEmails": [
     "anzai-keikin@mc.pikara.ne.jp",
     "fullmonkey.anz@gmail.com"
   ],
-  "updatedAt": "2026-09-25T07:25:53.085Z"
+  "updatedAt": "2026-09-25T07:26:30.094Z"
 }
